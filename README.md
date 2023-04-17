@@ -1,4 +1,5 @@
-# <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+
 # 💫 About Me:
 
 <br>👩‍🎓I'm a budding developer, always striving to grow and eager to tackle new challenges.<br><br>🕵️‍♀️Currently undergoing a career change, I am undergoing training to become a web and mobile web developer. Eager to continue my learning, I am seeking my first job to bring my skills and professional experience to your company..<br><br>👩‍💻 I’m currently learning HTML5 | CSS3 | JavaScript | PHP 7 et 8 | MySQL | java and Framework : Bootstrap | symfony 5 et 6 | JQuery |<br><br>💡 Fun fact: Do you know that we hold 0,2 mg of gold inside us!<br>
