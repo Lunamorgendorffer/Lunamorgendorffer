@@ -2,9 +2,9 @@
  
 I am a budding developer in the midst of a career transition to become a web developer. Currently in professional training, I am passionate about the programming universe.<br>
 
-On my Github profile, you can find a collection of my projects that show my skills in web development. Although I am still a beginner, I am proud to share my projects with you as they show my constant desire to learn and improve.<br>
+On my Github profile, you can find a collection of my projects that show my skills. Although I am still a beginner,I am proud to share my projects with you as they show my constant desire to learn and improve.<br>
 
-Why am I like a computer keyboard? Because I am a beginner who is always searching for the right keys! <br>
+Why am I like a computer keyboard? Because I am a beginner who is always searching for the right keys! :stuck_out_tongue_winking_eye: <br>
 But I am open to any collaboration or exchange of ideas to improve my skills and evolve as a developer. Feel free to contact me for any questions or suggestions.
 
 ### <h3 align="left">🛠 Language and tools</h3>
