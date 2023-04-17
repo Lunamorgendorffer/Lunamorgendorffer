@@ -16,8 +16,10 @@ But I am open to any collaboration or exchange of ideas to improve my skills and
 
 
 # 📊 GitHub Stats:
+<div align="center">
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Lunamorgendorffer&theme=default&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Lunamorgendorffer&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+</div>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Lunamorgendorffer&icon=0&color=0)](https://visitcount.itsvg.in)
