@@ -24,11 +24,7 @@ But I am open to any collaboration or exchange of ideas to improve my skills and
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Lunamorgendorffer&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=vue&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-
 ###
-
-
-#
 ---
 [![](https://visitcount.itsvg.in/api?id=Lunamorgendorffer&icon=0&color=0)](https://visitcount.itsvg.in)
 
